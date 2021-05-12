@@ -97,7 +97,7 @@ img.center {
   box-shadow: 4px 5px 6px 1px rgb(0 0 0 / 54%);
 }
 
-#sobre, #formacao, #experiencias, #skills, #projetos, #certificacoes {
+#txt1, #txt2, #txt3, #txt4, #txt5, #txt6 {
   -webkit-box-shadow: 5px 5px 15px 5px #FF8080, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 0px 3px 35px 10px rgba(0,0,0,0); 
   box-shadow: 5px 5px 15px 5px #FF8080, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 0px 3px 35px 10px rgba(0,0,0,0);
 }
