@@ -202,7 +202,7 @@ img.center {
   margin-top: 0;
 }
 
-.page-footer {
+#footer {
   background: linear-gradient(to right, #791E94, #41D3BD),
   linear-gradient(to bottom, #791E94, #FE9920),
   linear-gradient(-45deg, transparent, transparent 40%, #FE9920 45%, #FE9920 55%, transparent 60%, transparent),
